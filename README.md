@@ -13,7 +13,7 @@ Enjoy and let me know what you want to see in V2.
 git clone https://github.com/AmirTyper/Video-Editor/
 cd Video-Editor
 pip install -r requirements.txt
-python Editor.py
+python editor.py
 </code></pre>
 
 # Coded by: AmirTyper
