@@ -2,7 +2,6 @@
 import moviepy.editor as mp
 from moviepy.video.io.ffmpeg_tools import ffmpeg_extract_subclip
 import time
-import platform
 import os
 
 if os.name == 'nt':
