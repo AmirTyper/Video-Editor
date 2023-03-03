@@ -2,7 +2,7 @@
 <b> A simple video editor written in python.</b>
 <br />
 <br />
-Enjoy and let me know what you want to see in V2.
+Enjoy and let me know what would you lik to see in V2.
 <br />
 <br />
 <img src="img.png" />
