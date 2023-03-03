@@ -1,5 +1,8 @@
 # Video-Editor V1
-<b> A simple video editor written in python. Ejnoy and let me know what you want to see in V2.</b>
+<b> A simple video editor written in python.</b>
+<br />
+<br />
+Enjoy and let me know what you want to see in V2.
 <br />
 <br />
 <img src="img.png" />
