@@ -16,6 +16,14 @@ pip install -r requirements.txt
 python editor.py
 </code></pre>
 
+# Note
+If you received an error that contained this:
+<br />
+"You probably need to get an updated matplotlibrc..."
+<br />
+Then you must run this command:
+<br />
+<code>pip install --upgrade matplotlib</code>
 # Coded by: AmirTyper
 <pre><code>
 Developer's Telegram: <a href="https://t.me/Mr_Amir_Typer">Mr_Amir_Typer</a>
