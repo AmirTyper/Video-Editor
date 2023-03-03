@@ -12,7 +12,7 @@ Enjoy and let me know what you want to see in V2.
 <pre><code>
 git clone https://github.com/AmirTyper/Video-Editor/
 cd Video-Editor
-pip install moviepy
+pip install -r requirements.txt
 python Editor.py
 </code></pre>
 
