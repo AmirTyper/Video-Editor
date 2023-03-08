@@ -9,8 +9,7 @@ Enjoy and let me know what would you like to see in V2.
 <br />
 
 # How to use:
-<pre><code>
-git clone https://github.com/AmirTyper/Video-Editor/
+<pre><code>git clone https://github.com/AmirTyper/Video-Editor/
 cd Video-Editor
 pip install -r requirements.txt
 python editor.py
